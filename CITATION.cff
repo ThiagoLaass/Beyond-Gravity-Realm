@@ -1,1 +1,16 @@
+# Citation
 
+If you find this repository helpful or use it in your work, please consider citing it using the following BibTeX entry:
+
+## BibTeX
+
+```bibtex
+@misc{repositoryName,
+  author = {Author(s) or Organization},
+  title = {Title of the Repository},
+  year = {Year},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{Repository URL}},
+  note = {Accessed: Date},
+}
