@@ -5,12 +5,10 @@ If you find this repository helpful or use it in your work, please consider citi
 ## BibTeX
 
 ```bibtex
-@misc{repositoryName,
-  author = {Author(s) or Organization},
-  title = {Title of the Repository},
-  year = {Year},
+@misc{WEB-BlackHoles,
+  author = Thiago Borges Laass,
+  title = Beyond Gravity Realm,
+  year = 2023,
   publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{Repository URL}},
-  note = {Accessed: Date},
+  howpublished = https://github.com/ThiagoLaass/WEB-BlackHoles.git,
 }
