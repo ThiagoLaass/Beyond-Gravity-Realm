@@ -1,14 +1,17 @@
-# Citation
-
-If you find this repository helpful or use it in your work, please consider citing it using the following BibTeX entry:
-
-## BibTeX
-
-```bibtex
-@misc{WEB-BlackHoles,
-  author = Thiago Borges Laass,
-  title = Beyond Gravity Realm,
-  year = 2023,
-  publisher = {GitHub},
-  howpublished = https://github.com/ThiagoLaass/WEB-BlackHoles.git,
-}
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Beyond Gravity Realm
+authors:
+  - family-names: Borges Laass
+    given-names: Thiago
+keywords:
+  - Black Holes
+  - Cosmology
+  - Astronomy
+  - Physics
+  - Education
+  - Physicists
+repository-code: https://github.com/ThiagoLaass/WEB-BlackHoles.git
+license: Apache-2.0
+version: 1.1.0
+date-released: xxxx.xx.xx
