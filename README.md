@@ -1,4 +1,4 @@
-# WEB-BlackHoles
+# Beyond Gravity Realm
 ## Aplicação
 Um sistema educativo dedicado à divulgação do conhecimento sobre Buracos Negros, explorando as mais recentes descobertas e estudos acerca dessas fascinantes estruturas cósmicas.
 ## Conhecimentos
