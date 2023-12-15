@@ -1,0 +1,15 @@
+#menu {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+#menu a {
+    color: white;
+}
+
+#btn {
+    background-color: transparent;
+    color: white;
+    border: none;
+}
