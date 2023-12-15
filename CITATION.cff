@@ -1,0 +1,17 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Beyond Gravity Realm
+authors:
+  - family-names: Borges Laass
+    given-names: Thiago
+keywords:
+  - Black Holes
+  - Cosmology
+  - Astronomy
+  - Physics
+  - Education
+  - Physicists
+repository-code: https://github.com/ThiagoLaass/WEB-BlackHoles.git
+license: Apache-2.0
+version: 1.1.0
+date-released: xxxx.xx.xx
