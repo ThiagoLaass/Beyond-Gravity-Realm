@@ -1,3 +1,5 @@
+/* Styling the body */
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -9,6 +11,8 @@ body {
   font-size: 13px;
   margin: 0;
 }
+
+/* Styling the wrapper */
 
 input,
 textarea,
@@ -55,8 +59,6 @@ a:hover {
   outline: none;
 }
 
-
-
 .inner {
   padding: 20px;
   background: #fff;
@@ -83,28 +85,7 @@ a:hover {
   margin-bottom: 28px;
 }
 
-.form-group {
-  display: flex;
-}
-
-.form-group input {
-  width: 50%;
-}
-
-.form-group input:first-child {
-  margin-right: 25px;
-}
-
-.form-wrapper {
-  position: relative;
-  color: white;
-}
-
-.form-wrapper i {
-  position: absolute;
-  bottom: 9px;
-  right: 0;
-}
+/* Styling the input fields */
 
 #name {
   background-color: transparent;
@@ -126,6 +107,17 @@ a:hover {
   color: white;
 }
 
+#password::placeholder {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  opacity: 0.7;
+}
+
+#confirmpassword::placeholder {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  opacity: 0.7;
+}
 
 #main {
   background-color: transparent;
@@ -172,15 +164,20 @@ a:hover {
   font-family: 'Raleway', sans-serif;
 }
 
-#password {
-  font-family: 'Raleway', sans-serif;
-}
+/* Styling the submit button */
 
 #btn {
   font-family: 'Raleway', sans-serif;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
+#redirect {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  display: flex;
+  justify-content: end;
+  text-decoration: none;
+}
 
 button {
   width: 164px;
@@ -199,7 +196,7 @@ button {
 }
 
 button:hover {
-  background-color: #fff;
+  background-color: #000000;
   color: #000;
   border-radius: 5px;
 }
@@ -222,6 +219,8 @@ button:active i {
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
+
+/* Wobble Horizontal */
 
 @-webkit-keyframes hvr-icon-wobble-horizontal {
   16.65% {
@@ -286,6 +285,8 @@ button:active i {
     transform: translateX(0);
   }
 }
+
+/* Responsiveness */
 
 @media (max-width: 1199px) {
   .wrapper {
