@@ -38,6 +38,6 @@ The exploration of black holes, neutron stars, and galaxies is the culmination o
 
 This application is a tribute to their dedication and contributions to our understanding of the cosmos.
 
-#Author
+# Author
 
 I, Thiago Borges Laass, am a current Software Engineering student at PUC. I'm passionate about coding and problem-solving, constantly exploring new technologies to broaden my skills. My journey in software development has been an incredible learning experience, and I'm excited to continue growing in this field. That way, i present this small and simple application, whose content is something im truly passionate about.
