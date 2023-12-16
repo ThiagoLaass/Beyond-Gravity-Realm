@@ -2,7 +2,7 @@
 
 ## Overview
 
-Beyond Gravity Realm is an application designed to delve into the mysteries of our universe, focusing on the inspiring phenomena of black holes, neutron stars, and galaxies. This interactive platform provides a window into the most captivating and enigmatic elements of space, offering an immersive experience for enthusiasts and learners alike.
+Beyond Gravity Realm is an application designed to delve into the mysteries of our universe, focusing on the inspiring phenomena of black holes, neutron stars, and galaxies. This platform provides a window into the most captivating and enigmatic elements of space, offering an immersive experience for enthusiasts and learners alike.
 
 ## Features
 
