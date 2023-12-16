@@ -2,24 +2,23 @@
 
 ## Overview
 
-The Cosmos Explorer is an application designed to delve into the mysteries of our universe, focusing on the awe-inspiring phenomena of black holes, neutron stars, and galaxies. This interactive platform provides a window into the most captivating and enigmatic elements of space, offering an immersive experience for enthusiasts and learners alike.
+Beyond Gravity Realm is an application designed to delve into the mysteries of our universe, focusing on the inspiring phenomena of black holes, neutron stars, and galaxies. This interactive platform provides a window into the most captivating and enigmatic elements of space, offering an immersive experience for enthusiasts and learners alike.
 
 ## Features
 
 ### 1. Black Holes
    - Explore the concept of black holes, their formation, and their incredible properties.
-   - Visualize simulated black hole mergers and understand their significance in astrophysics.
-   - Access real-time updates on recent discoveries related to black holes.
+   - Visualize images, videos, and how black holes are a part of our great understanding.
+   - Learn about its incredibility, how it changed and continue to change knowledges thought to be laws.
 
 ### 2. Neutron Stars
    - Learn about neutron stars, their composition, and their role in the cosmic landscape.
-   - Simulate neutron star collisions and understand their impact on the universe.
    - Stay updated on the latest research and breakthroughs in neutron star studies.
 
 ### 3. Galaxies
    - Discover the diversity of galaxies, from spirals to ellipticals, and understand their evolution.
-   - Navigate through 3D models of galaxies and explore their structures and peculiarities.
    - Access a timeline of significant discoveries in galactic studies.
+   - Their formation, and how important they are to our understanding of the universe.
 
 ## Credits
 
@@ -40,4 +39,5 @@ The exploration of black holes, neutron stars, and galaxies is the culmination o
 This application is a tribute to their dedication and contributions to our understanding of the cosmos.
 
 #Author
+
 I, Thiago Borges Laass, am a current Software Engineering student at PUC. I'm passionate about coding and problem-solving, constantly exploring new technologies to broaden my skills. My journey in software development has been an incredible learning experience, and I'm excited to continue growing in this field. That way, i present this small and simple application, whose content is something im truly passionate about.
