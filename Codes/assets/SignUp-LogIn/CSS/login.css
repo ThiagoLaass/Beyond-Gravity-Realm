@@ -28,35 +28,7 @@ button {
 
 #login {
   font-family: 'Raleway', sans-serif;
-  color: white;
-}
-
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-ul {
-  margin: 0;
-}
-
-img {
-  max-width: 100%;
-}
-
-ul {
-  padding-left: 0;
-  margin-bottom: 0;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-:focus {
-  outline: none;
+  color: rgb(0, 0, 0);
 }
 
 .inner {
@@ -107,17 +79,33 @@ a:hover {
   color: white;
 }
 
+/* Styling the Placeholders */
+
+#name::placeholder {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(0, 0, 0);
+  opacity: 0.7;
+}
+
+#email::placeholder {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(0, 0, 0);
+  opacity: 0.7;
+}
+
 #password::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: white;
+  color: rgb(0, 0, 0);
   opacity: 0.7;
 }
 
 #confirmpassword::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: white;
+  color: rgb(0, 0, 0);
   opacity: 0.7;
 }
+
+/* Styling main */
 
 #main {
   background-color: transparent;
@@ -126,6 +114,8 @@ a:hover {
   align-items: center;
   height: 100vh;
 }
+
+/* Styling the input fields */
 
 .form-control {
   border-top: none;
@@ -169,13 +159,14 @@ a:hover {
 #btn {
   font-family: 'Raleway', sans-serif;
   color: rgb(255, 255, 255);
+ 
 }
 
 #redirect {
   font-family: 'Raleway', sans-serif;
   color: white;
   display: flex;
-  justify-content: end;
+  justify-content: center;
   text-decoration: none;
 }
 
