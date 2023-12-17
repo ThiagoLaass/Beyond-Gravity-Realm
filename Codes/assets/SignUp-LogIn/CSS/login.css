@@ -28,7 +28,7 @@ button {
 
 #login {
   font-family: 'Raleway', sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .inner {
@@ -37,10 +37,6 @@ button {
   max-width: 850px;
   margin: auto;
   display: flex;
-}
-
-.inner .image-holder {
-  width: 50%;
 }
 
 .inner form {
@@ -83,25 +79,25 @@ button {
 
 #name::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 253, 253);
   opacity: 0.7;
 }
 
 #email::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   opacity: 0.7;
 }
 
 #password::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   opacity: 0.7;
 }
 
 #confirmpassword::placeholder {
   font-family: 'Raleway', sans-serif;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   opacity: 0.7;
 }
 
@@ -113,6 +109,7 @@ button {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  justify-content: center;
 }
 
 /* Styling the input fields */
@@ -159,38 +156,47 @@ button {
 #btn {
   font-family: 'Raleway', sans-serif;
   color: rgb(255, 255, 255);
- 
+  background-color: transparent;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 80px;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+
+#btn:hover {
+  background-color: #ffffff;
+  color: #000;
+  border-radius: 5px;
 }
 
 #redirect {
   font-family: 'Raleway', sans-serif;
   color: white;
   display: flex;
-  justify-content: center;
+  justify-content: end;
+  align-items: end;
   text-decoration: none;
 }
 
-button {
-  width: 164px;
-  height: 51px;
-  margin: auto;
-  margin-top: 40px;
-  cursor: pointer;
-  background-color: transparent;
-  border: 1px solid #fff;
-  border-radius: 50px;
-  color: #fff;
-  -webkit-transform: perspective(1px) translateZ(0);
-  transform: perspective(1px) translateZ(0);
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
+#redirect:hover {
+  color: black;
+ 
 }
 
-button:hover {
-  background-color: #000000;
-  color: #000;
-  border-radius: 5px;
+#submit-button {
+  display: flex;
+  justify-content: end;
+  align-items: center;
 }
+
 
 button i {
   margin-left: 10px;
