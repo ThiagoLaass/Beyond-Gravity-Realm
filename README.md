@@ -38,7 +38,7 @@ The exploration of black holes, neutron stars, and galaxies is the culmination o
 
 This application is a tribute to their dedication and contributions to our understanding of the cosmos.
 
-# APIs sed
+### APIs used
 
 - [Astronomy API](https://docs.astronomyapi.com)
 
