@@ -1,0 +1,32 @@
+{
+    "name": "Roger Penrose",
+    "occupation": "Mathematical Physicist",
+    "birthDate": "8 August 1931",
+    "birthPlace": "Colchester, Essex, England",
+    "deathDate": "N/A",
+    "deathPlace": "N/A",
+    "nationality": "British",
+    "contributions": [
+        "Penrose tiling",
+        "Penrose diagram",
+        "Penrose process",
+        "Penrose interpretation",
+        "Penrose inequality",
+        "Penrose-Hawking singularity theorems",
+        "Twistor theory"
+    ],
+    "awards": [
+        {
+            "title": "Nobel Prize in Physics",
+            "year": 2020
+        },
+        {
+            "title": "Wolf Prize in Physics",
+            "year": 1988
+        },
+        {
+            "title": "Royal Medal",
+            "year": 1975
+        }
+    ]
+}

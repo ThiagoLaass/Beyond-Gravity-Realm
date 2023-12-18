@@ -1,0 +1,56 @@
+{
+    "contributors": [
+        {
+            "name": "Subrahmanyan Chandrasekhar",
+            "occupation": "Theoretical physicist",
+            "birthDate": "October 19, 1910",
+            "birthPlace": "Lahore, Punjab, British India",
+            "deathPlace": "Chicago, Illinois, United States",
+            "deathDate": "August 21, 1995",
+            "nationality": "Indian",
+            "contribution": {
+                "description": "Formulated the Chandrasekhar limit and predicted the existence of white dwarfs",
+                "year": 1930
+            }
+        },
+        {
+            "name": "Arthur Eddington",
+            "occupation": "Astrophysicist",
+            "birthDate": "December 28, 1882",
+            "birthPlace": "Kendal, Westmorland, England",
+            "deathPlace": "Cambridge, Cambridgeshire, England",
+            "deathDate": "November 22, 1944",
+            "nationality": "British",
+            "contribution": {
+                "description": "Provided support for Chandrasekhar's work and helped popularize the concept of white dwarfs",
+                "year": 1930
+            }
+        },
+        {
+            "name": "Wilhelm Anderson",
+            "occupation": "Astronomer",
+            "birthDate": "May 31, 1880",
+            "birthPlace": "Stockholm, Sweden",
+            "deathPlace": "Uppsala, Sweden",
+            "deathDate": "April 21, 1960",
+            "nationality": "Swedish",
+            "contribution": {
+                "description": "Contributed to the understanding of stellar structure and the Chandrasekhar limit",
+                "year": 1930
+            }
+        },
+        {
+            "name": "Fritz Zwicky",
+            "occupation": "Astronomer",
+            "birthDate": "February 14, 1898",
+            "birthPlace": "Varna, Bulgaria",
+            "deathPlace": "Pasadena, California, United States",
+            "deathDate": "February 8, 1974",
+            "nationality": "Swiss",
+            "contribution": {
+                "description": "Proposed the existence of neutron stars, which are related to the Chandrasekhar limit",
+                "year": 1930
+            }
+        }
+    ]
+}

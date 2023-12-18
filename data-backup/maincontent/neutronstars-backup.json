@@ -1,0 +1,25 @@
+{
+    "neutronStars": [
+        {
+            "name": "Crab Pulsar",
+            "mass": "1.4 solar masses",
+            "distance": "6,500 light-years",
+            "description": "The Crab Pulsar is a neutron star located in the constellation Taurus. It is the remnant of a supernova explosion observed in 1054 AD.",
+            "image": ""
+        },
+        {
+            "name": "Vela Pulsar",
+            "mass": "1.4 solar masses",
+            "distance": "1,000 light-years",
+            "description": "The Vela Pulsar is a neutron star located in the Vela supernova remnant. It is one of the brightest known radio sources in the sky.",
+            "image": ""
+        },
+        {
+            "name": "PSR J1748-2446ad",
+            "mass": "2.01 solar masses",
+            "distance": "9,000 light-years",
+            "description": "PSR J1748-2446ad is a millisecond pulsar located in the globular cluster Terzan 5. It is one of the fastest spinning neutron stars known.",
+            "image": ""
+        }
+    ]
+}
