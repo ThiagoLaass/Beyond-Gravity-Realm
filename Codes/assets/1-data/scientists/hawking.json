@@ -13,19 +13,19 @@
     ],
     "awards": [
         {
-            "name": "Albert Einstein Medal",
+            "title": "Albert Einstein Medal",
             "year": 1979
         },
         {
-            "name": "Copley Medal",
+            "title": "Copley Medal",
             "year": 2006
         },
         {
-            "name": "Wolf Prize in Physics",
+            "title": "Wolf Prize in Physics",
             "year": 1988
         },
         {
-            "name": "Presidential Medal of Freedom",
+            "title": "Presidential Medal of Freedom",
             "year": 2009
         }
     ]

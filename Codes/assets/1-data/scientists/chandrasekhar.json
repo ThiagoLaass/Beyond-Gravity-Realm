@@ -10,7 +10,7 @@
             "nationality": "Indian",
             "contribution": {
                 "description": "Formulated the Chandrasekhar limit and predicted the existence of white dwarfs",
-                "date": 1930
+                "year": 1930
             }
         },
         {
@@ -23,7 +23,7 @@
             "nationality": "British",
             "contribution": {
                 "description": "Provided support for Chandrasekhar's work and helped popularize the concept of white dwarfs",
-                "date": 1930
+                "year": 1930
             }
         },
         {
@@ -36,7 +36,7 @@
             "nationality": "Swedish",
             "contribution": {
                 "description": "Contributed to the understanding of stellar structure and the Chandrasekhar limit",
-                "date": 1930
+                "year": 1930
             }
         },
         {
@@ -49,7 +49,7 @@
             "nationality": "Swiss",
             "contribution": {
                 "description": "Proposed the existence of neutron stars, which are related to the Chandrasekhar limit",
-                "date": 1930
+                "year": 1930
             }
         }
     ]

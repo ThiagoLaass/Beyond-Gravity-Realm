@@ -17,15 +17,15 @@
     ],
     "awards": [
         {
-            "name": "Nobel Prize in Physics",
+            "title": "Nobel Prize in Physics",
             "year": 2020
         },
         {
-            "name": "Wolf Prize in Physics",
+            "title": "Wolf Prize in Physics",
             "year": 1988
         },
         {
-            "name": "Royal Medal",
+            "title": "Royal Medal",
             "year": 1975
         }
     ]

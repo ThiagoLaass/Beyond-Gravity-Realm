@@ -13,15 +13,15 @@
     ],
     "awards": [
         {
-            "name": "Nobel Prize in Physics",
+            "title": "Nobel Prize in Physics",
             "year": 2020
         },
         {
-            "name": "Shaw Prize in Astronomy",
+            "title": "Shaw Prize in Astronomy",
             "year": 2008
         },
         {
-            "name": "Kavli Prize in Astrophysics",
+            "title": "Kavli Prize in Astrophysics",
             "year": 2012
         }
     ]
