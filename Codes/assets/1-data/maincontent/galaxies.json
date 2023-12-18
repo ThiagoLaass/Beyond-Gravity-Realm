@@ -1,0 +1,25 @@
+{
+    "galaxies": [
+        {
+            "name": "Andromeda Galaxy",
+            "type": "Spiral",
+            "distance": "2.537 million light-years",
+            "description": "The Andromeda Galaxy is a spiral galaxy located in the Andromeda constellation.",
+            "image": ""
+        },
+        {
+            "name": "Whirlpool Galaxy",
+            "type": "Spiral",
+            "distance": "23.05 million light-years",
+            "description": "The Whirlpool Galaxy is a spiral galaxy located in the Canes Venatici constellation.",
+            "image": ""
+        },
+        {
+            "name": "Sombrero Galaxy",
+            "type": "Spiral",
+            "distance": "28 million light-years",
+            "description": "The Sombrero Galaxy is a spiral galaxy located in the Virgo constellation.",
+            "image": ""
+        }
+    ]
+}

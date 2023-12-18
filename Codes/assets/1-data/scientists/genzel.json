@@ -1,0 +1,28 @@
+{
+    "name": "Reinhard Genzel",
+    "occupation": "Astrophysics",
+    "birthDate": "March 24, 1952",
+    "birthPlace": "Bad Homburg vor der Höhe, Germany",
+    "deathDate": "N/A",
+    "deathPlace": "N/A",
+    "nationality": "German",
+    "contributions": [
+        "Discovery of a supermassive black hole at the center of our galaxy",
+        "Development of high-resolution imaging techniques",
+        "Advancement of observational astronomy"
+    ],
+    "awards": [
+        {
+            "name": "Nobel Prize in Physics",
+            "year": 2020
+        },
+        {
+            "name": "Shaw Prize in Astronomy",
+            "year": 2008
+        },
+        {
+            "name": "Kavli Prize in Astrophysics",
+            "year": 2012
+        }
+    ]
+}

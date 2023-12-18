@@ -1,0 +1,28 @@
+{
+    "name": "Kip Thorne",
+    "occupation": "Theoretical physicist",
+    "birthDate": "June 1, 1940",
+    "birthPlace": "Logan, Utah, United States",
+    "deathDate": "N/A",
+    "deathPlace": "N/A",
+    "nationality": "American",
+    "contributions": [
+        "Black holes",
+        "Gravitational waves",
+        "Time travel"
+    ],
+    "awards": [
+        {
+            "name": "Nobel Prize in Physics",
+            "year": 2017
+        },
+        {
+            "name": "Albert Einstein Medal",
+            "year": 2009
+        },
+        {
+            "name": "Kavli Prize in Astrophysics",
+            "year": 2016
+        }
+    ]
+}

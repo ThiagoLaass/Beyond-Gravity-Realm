@@ -1,0 +1,24 @@
+{
+    "name": "Jocelyn Bell Burnell",
+    "occupation": "Astrophysicist",
+    "birthDate": "July 15, 1943",
+    "birthPlace": "Belfast, Northern Ireland",
+    "deathDate": "N/A",
+    "deathPlace": "N/A",
+    "nationality": "British",
+    "contributions": [
+        "Discovery of pulsars",
+        "Contributions to the study of neutron stars",
+        "Advancement of radio astronomy"
+    ],
+    "awards": [
+        {
+            "name": "Special Breakthrough Prize in Fundamental Physics",
+            "year": 2018
+        },
+        {
+            "name": "Royal Astronomical Society Gold Medal",
+            "year": 2021
+        }
+    ]
+}

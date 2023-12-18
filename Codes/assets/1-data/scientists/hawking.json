@@ -1,0 +1,32 @@
+{
+    "name": "Stephen Hawking",
+    "occupation": "Theoretical Physicist",
+    "birthDate": "January 8, 1942",
+    "birthPlace": "Oxford, England",
+    "deathDate": "March 14, 2018",
+    "deathPlace": "Cambridge, England",
+    "nationality": "British",
+    "contributions": [
+        "Hawking radiation",
+        "Black hole thermodynamics",
+        "Theoretical cosmology"
+    ],
+    "awards": [
+        {
+            "name": "Albert Einstein Medal",
+            "year": 1979
+        },
+        {
+            "name": "Copley Medal",
+            "year": 2006
+        },
+        {
+            "name": "Wolf Prize in Physics",
+            "year": 1988
+        },
+        {
+            "name": "Presidential Medal of Freedom",
+            "year": 2009
+        }
+    ]
+}

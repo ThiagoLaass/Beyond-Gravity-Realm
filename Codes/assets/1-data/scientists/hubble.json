@@ -1,0 +1,32 @@
+{
+    "name": "Edwin Hubble",
+    "occupation": "Astronomer",
+    "birthDate": "November 20, 1889",
+    "birthPlace": "Marshfield, Missouri, United States",
+    "deathDate": "September 28, 1953",
+    "deathPlace": "San Marino, California, United States",
+    "nationality": "American",
+    "contributions": [
+        "Hubble's law",
+        "Hubble Space Telescope",
+        "Discovery of galaxies beyond the Milky Way"
+    ],
+    "awards": [
+        {
+            "name": "Bruce Medal",
+            "date": 1938
+        },
+        {
+            "name": "Gold Medal of the Royal Astronomical Society",
+            "date": 1924
+        },
+        {
+            "name": "Henry Norris Russell Lectureship",
+            "date": 1952
+        },
+        {
+            "name": "Copley Medal",
+            "date": 1935
+        }
+    ]
+}
