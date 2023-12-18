@@ -1,0 +1,32 @@
+{
+    "name": "Vera Rubin",
+    "occupation": "Astronomer",
+    "birthDate": "July 23, 1928",
+    "birthPlace": "Philadelphia, Pennsylvania, USA",
+    "deathDate": "December 25, 2016",
+    "deathPlace": "Princeton, New Jersey, USA",
+    "nationality": "American",
+    "contributions": [
+        "Discovered evidence of dark matter in galaxies",
+        "Studied galaxy rotation curves",
+        "Advocated for the inclusion of more women in science"
+    ],
+    "awards": [
+        {
+            "title": "Gold Medal of the Royal Astronomical Society",
+            "year": 1996
+        },
+        {
+            "title": "National Medal of Science",
+            "year": 1993
+        },
+        {
+            "title": "Bruce Medal",
+            "year": 2002
+        },
+        {
+            "title": "Gruber Prize in Cosmology",
+            "year": 2002
+        }
+    ]
+}

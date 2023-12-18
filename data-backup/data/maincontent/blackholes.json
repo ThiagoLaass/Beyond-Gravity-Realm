@@ -1,0 +1,25 @@
+{
+    "blackHoles": [
+        {
+            "name": "Sagittarius A*",
+            "mass": "4.31 million solar masses",
+            "distance": "26,000 light-years",
+            "description": "Sagittarius A* is a supermassive black hole located at the center of the Milky Way galaxy.",
+            "image": ""
+        },
+        {
+            "name": "M87*",
+            "mass": "6.5 billion solar masses",
+            "distance": "55 million light-years",
+            "description": "M87* is a supermassive black hole located in the center of the M87 galaxy.",
+            "image": ""
+        },
+        {
+            "name": "Cygnus X-1",
+            "mass": "14.8 solar masses",
+            "distance": "6,070 light-years",
+            "description": "Cygnus X-1 is a stellar-mass black hole located in the constellation Cygnus.",
+            "image": ""
+        }
+    ]
+}
