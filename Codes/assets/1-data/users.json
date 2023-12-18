@@ -1,0 +1,11 @@
+{
+    "name": "Thiago Laass",
+    "age": 20,
+    "gender": "male",
+    "preferences": {
+        "content": [
+            "black holes",
+            "neutron stars"
+        ]
+    }
+}

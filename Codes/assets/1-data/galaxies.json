@@ -1,0 +1,25 @@
+{
+    "galaxies": [
+        {
+            "name": "Milky Way",
+            "type": "Spiral",
+            "distance": "25,000 light-years",
+            "size": "100,000 light-years",
+            "image": "milky_way.jpg"
+        },
+        {
+            "name": "Andromeda",
+            "type": "Spiral",
+            "distance": "2.537 million light-years",
+            "size": "220,000 light-years",
+            "image": "andromeda.jpg"
+        },
+        {
+            "name": "Whirlpool",
+            "type": "Spiral",
+            "distance": "23.2 million light-years",
+            "size": "60,000 light-years",
+            "image": "whirlpool.jpg"
+        }
+    ]
+}
