@@ -1,0 +1,219 @@
+{
+    "scientists": [
+        {
+            "id": 1,
+            "name": "Reinhard Genzel",
+            "occupation": "Astrophysics",
+            "birthDate": "March 24, 1952",
+            "birthPlace": "Bad Homburg vor der Höhe, Germany",
+            "deathDate": "N/A",
+            "deathPlace": "N/A",
+            "nationality": "German",
+            "contributions": [
+                "Discovery of a supermassive black hole at the center of our galaxy",
+                "Development of high-resolution imaging techniques",
+                "Advancement of observational astronomy"
+            ],
+            "awards": [
+                {
+                    "title": "Nobel Prize in Physics",
+                    "year": 2020
+                },
+                {
+                    "title": "Shaw Prize in Astronomy",
+                    "year": 2008
+                },
+                {
+                    "title": "Kavli Prize in Astrophysics",
+                    "year": 2012
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Stephen Hawking",
+            "occupation": "Theoretical Physicist",
+            "birthDate": "January 8, 1942",
+            "birthPlace": "Oxford, England",
+            "deathDate": "March 14, 2018",
+            "deathPlace": "Cambridge, England",
+            "nationality": "British",
+            "contributions": [
+                "Hawking radiation",
+                "Black hole thermodynamics",
+                "Theoretical cosmology"
+            ],
+            "awards": [
+                {
+                    "title": "Albert Einstein Medal",
+                    "year": 1979
+                },
+                {
+                    "title": "Copley Medal",
+                    "year": 2006
+                },
+                {
+                    "title": "Wolf Prize in Physics",
+                    "year": 1988
+                },
+                {
+                    "title": "Presidential Medal of Freedom",
+                    "year": 2009
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Roger Penrose",
+            "occupation": "Mathematical Physicist",
+            "birthDate": "8 August 1931",
+            "birthPlace": "Colchester, Essex, England",
+            "deathDate": "N/A",
+            "deathPlace": "N/A",
+            "nationality": "British",
+            "contributions": [
+                "Penrose tiling",
+                "Penrose diagram",
+                "Penrose process",
+                "Penrose interpretation",
+                "Penrose inequality",
+                "Penrose-Hawking singularity theorems",
+                "Twistor theory"
+            ],
+            "awards": [
+                {
+                    "title": "Nobel Prize in Physics",
+                    "year": 2020
+                },
+                {
+                    "title": "Wolf Prize in Physics",
+                    "year": 1988
+                },
+                {
+                    "title": "Royal Medal",
+                    "year": 1975
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Kip Thorne",
+            "occupation": "Theoretical physicist",
+            "birthDate": "June 1, 1940",
+            "birthPlace": "Logan, Utah, United States",
+            "deathDate": "N/A",
+            "deathPlace": "N/A",
+            "nationality": "American",
+            "contributions": [
+                "Black holes",
+                "Gravitational waves",
+                "Time travel"
+            ],
+            "awards": [
+                {
+                    "title": "Nobel Prize in Physics",
+                    "year": 2017
+                },
+                {
+                    "title": "Albert Einstein Medal",
+                    "year": 2009
+                },
+                {
+                    "title": "Kavli Prize in Astrophysics",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Edwin Hubble",
+            "occupation": "Astronomer",
+            "birthDate": "November 20, 1889",
+            "birthPlace": "Marshfield, Missouri, United States",
+            "deathDate": "September 28, 1953",
+            "deathPlace": "San Marino, California, United States",
+            "nationality": "American",
+            "contributions": [
+                "Hubble's law",
+                "Hubble Space Telescope",
+                "Discovery of galaxies beyond the Milky Way"
+            ],
+            "awards": [
+                {
+                    "title": "Bruce Medal",
+                    "year": 1938
+                },
+                {
+                    "title": "Gold Medal of the Royal Astronomical Society",
+                    "year": 1924
+                },
+                {
+                    "title": "Henry Norris Russell Lectureship",
+                    "year": 1952
+                },
+                {
+                    "title": "Copley Medal",
+                    "year": 1935
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vera Rubin",
+            "occupation": "Astronomer",
+            "birthDate": "July 23, 1928",
+            "birthPlace": "Philadelphia, Pennsylvania, USA",
+            "deathDate": "December 25, 2016",
+            "deathPlace": "Princeton, New Jersey, USA",
+            "nationality": "American",
+            "contributions": [
+                "Discovered evidence of dark matter in galaxies",
+                "Studied galaxy rotation curves",
+                "Advocated for the inclusion of more women in science"
+            ],
+            "awards": [
+                {
+                    "title": "Gold Medal of the Royal Astronomical Society",
+                    "year": 1996
+                },
+                {
+                    "title": "National Medal of Science",
+                    "year": 1993
+                },
+                {
+                    "title": "Bruce Medal",
+                    "year": 2002
+                },
+                {
+                    "title": "Gruber Prize in Cosmology",
+                    "year": 2002
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jocelyn Bell Burnell",
+            "occupation": "Astrophysicist",
+            "birthDate": "July 15, 1943",
+            "birthPlace": "Belfast, Northern Ireland",
+            "deathDate": "N/A",
+            "deathPlace": "N/A",
+            "nationality": "British",
+            "contributions": [
+                "Discovery of pulsars",
+                "Contributions to the study of neutron stars",
+                "Advancement of radio astronomy"
+            ],
+            "awards": [
+                {
+                    "title": "Special Breakthrough Prize in Fundamental Physics",
+                    "year": 2018
+                },
+                {
+                    "title": "Royal Astronomical Society Gold Medal",
+                    "year": 2021
+                }
+            ]
+        }
+    ]
+}

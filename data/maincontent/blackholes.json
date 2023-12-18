@@ -20,6 +20,13 @@
             "distance": "6,070 light-years",
             "description": "Cygnus X-1 is a stellar-mass black hole located in the constellation Cygnus.",
             "image": ""
+        },
+        {
+            "name": "TON 618",
+            "mass": "66 billion solar masses",
+            "distance": "10.37 billion light-years",
+            "description": "TON 618 is an extremely massive black hole located in the constellation Canes Venatici.",
+            "image": "" 
         }
     ]
 }

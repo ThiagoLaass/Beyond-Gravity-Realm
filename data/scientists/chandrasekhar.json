@@ -1,6 +1,7 @@
 {
     "contributors": [
         {
+            "id": 8,
             "name": "Subrahmanyan Chandrasekhar",
             "occupation": "Theoretical physicist",
             "birthDate": "October 19, 1910",
@@ -14,6 +15,7 @@
             }
         },
         {
+            "id": 9,
             "name": "Arthur Eddington",
             "occupation": "Astrophysicist",
             "birthDate": "December 28, 1882",
@@ -27,6 +29,7 @@
             }
         },
         {
+            "id": 10,
             "name": "Wilhelm Anderson",
             "occupation": "Astronomer",
             "birthDate": "May 31, 1880",
@@ -40,6 +43,7 @@
             }
         },
         {
+            "id": 11,
             "name": "Fritz Zwicky",
             "occupation": "Astronomer",
             "birthDate": "February 14, 1898",
