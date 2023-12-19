@@ -55,7 +55,7 @@ button {
 
 /* Styling the input fields */
 
-#name {
+#username {
   background-color: transparent;
   color: white;
 }
@@ -77,7 +77,7 @@ button {
 
 /* Styling the Placeholders */
 
-#name::placeholder {
+#username::placeholder {
   font-family: 'Raleway', sans-serif;
   color: rgb(255, 253, 253);
   opacity: 0.7;

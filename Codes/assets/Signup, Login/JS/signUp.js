@@ -1,52 +1,31 @@
-function signUp() {
-    var user = fetchUserData();
-    var isValid = validateUserData(user);
-    if (isValid) {
-        var users = JSON.parse(localStorage.getItem("users"));
-        if (users == null) {
-            users = [];
-        }
-        users.push(user);
-        localStorage.setItem("users", JSON.stringify(users));
-        alert("User registered successfully.");
-        window.location.href = "login.html";
-    }
+async function fetchUsersData() {
+    const response = await fetch('./user.json');
+    const data = await response.json()
+    return data;
 }
 
-function fetchUserData() {
-    var user = {
-        name: document.getElementById("name").value,
-        email: document.getElementById("email").value,
-        password: document.getElementById("password").value,
-        confirmPassword: document.getElementById("confirmPassword").value
+async function signUp() {
+    const users = await fetchUsersData();
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+    const confirmPassword = document.getElementById('confirmPassword').value;
+    const email = document.getElementById('email').value;
+    const user = {
+        username,
+        password,
+        confirmPassword,
+        email
     }
-    return user;
-}
-
-function validateUserData(user) {
-    var name = user.name;
-    var email = user.email;
-    var password = user.password;
-    var confirmPassword = user.confirmPassword;
-    var error = "";
-    if (name == "") {
-        error += "Name is required.\n";
+    if (password !== confirmPassword) {
+        alert('Password and Confirm Password are not the same');
+        return;
     }
-    if (email == "") {
-        error += "Email is required.\n";
+    if (users.some(user => user.username === username)) {
+        alert('Username is already taken');
+        return;
     }
-    if (password == "") {
-        error += "Password is required.\n";
-    }
-    if (confirmPassword == "") {
-        error += "Confirm Password is required.\n";
-    }
-    if (password != confirmPassword) {
-        error += "Password and Confirm Password must be same.\n";
-    }
-    if (error != "") {
-        alert(error);
-        return false;
-    }
-    return true;
+    users.push(user);
+    localStorage.setItem('users', JSON.stringify(users));
+    alert('Sign up successfully');
+    window.location.href = './login.html';
 }
