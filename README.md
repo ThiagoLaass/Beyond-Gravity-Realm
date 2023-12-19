@@ -1,4 +1,4 @@
-# Beyond Gravity Realm
+# Beyond Gravity Realm (Under development)
 
 ## Overview
 
@@ -41,6 +41,7 @@ This application is a tribute to their dedication and contributions to our under
 ### APIs used
 
 - [Astronomy API](https://docs.astronomyapi.com)
+- [Nasa APIs](https://api.nasa.gov)
 
 # Author
 
